@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mark
+- 👀 I’m interested in digital accessibility
+- 🌱 I’m currently learning Japanese, mainly. よろしくお願いいたします！
+- 💞️ I’m looking to collaborate on making the web a more connected place
+- 📫 How to reach me - message me on LinkedIn
