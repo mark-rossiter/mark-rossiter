@@ -8,7 +8,7 @@ Digital accessibility
 - Bash/Perl scripting
 - Python scripting
 - JavaScript
-- How to be a better stoic.
+- How to be a better Stoic (prokopton) 
 - Japanese
 
 ### What I dream of at night when I rest my wee head
