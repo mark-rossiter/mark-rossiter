@@ -2,7 +2,7 @@ Hi, I am Mark
 -------------
 
 ### My job title is
-Customer Accessibility Consultant
+Customer Accessibility Lead
 
 ### I am currently learning
 - Bash/Perl scripting
