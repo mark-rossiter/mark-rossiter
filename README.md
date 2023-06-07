@@ -1,17 +1,17 @@
 Hi, I am Mark
 -------------
 
-### I work in the field of
-Digital accessibility
+### My job title is
+Customer Accessibility Consultant
 
 ### I am currently learning
 - Bash/Perl scripting
 - Python scripting
 - JavaScript
-- How to be a better Stoic (prokopton) 
+- Path of the Prokopton
 - Japanese
 
-### What I dream of at night when I rest my wee head
+### What I dream of at night
 Good user experiences for everyone.
 
 ### What I do in my free time
