@@ -5,7 +5,7 @@ Hi, I am Mark
 Customer Accessibility Lead @ AXA UK
 
 ### I am currently...
-- Drinking water
+Drinking water
 
 ### What I dream of at night
 Good user experiences for everyone.
