@@ -1,17 +1,12 @@
-Hi, I am Mark
+# Hi, I'm Mark 
 -------------
 
-### My job title is
-Customer Accessibility Lead @ AXA UK
+## What I do
+I'm the Customer Accessibility Lead @ AXA UK. I am not an engineer.
 
-### I am currently...
-Drinking water
+My goal is to help make the internet more accessible for all people - I believe that equitable experiences on the internet should be a standard maintained across the world. 
 
-### What I dream of at night
-Good user experiences for everyone.
-
-### What I do in my free time
-Use "One Piece" to brainwash my children.
-
-### You can reach me via...
+## You can reach me via...
 [My linkedin page](https://www.linkedin.com/in/mrmarkrossiter/)
+
+Please reach out if you want to learn more about the strategy I created at AXA UK and what work we are doing for our customers. 
